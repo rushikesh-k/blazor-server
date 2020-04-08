@@ -1,0 +1,2 @@
+# blazor-server
+Blazor Server
